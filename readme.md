@@ -23,8 +23,11 @@ This project uses Open Meteo API to gather weather data.
 
 # How to run:
 
+Open in browser:
+https://weatherapp11.streamlit.app/
 
 
+ALTERNATIVELY:
 1. Clone the repository
 
 ```bash
